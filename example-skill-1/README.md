@@ -1,19 +1,23 @@
-To submit your skill, replace this file with text from 
-https://rawgit.com/MycroftAI/mycroft-skills/master/meta_editor.html
+# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/handshake.svg' card_color='#3F7BCF' width='50' height='50' style='vertical-align:bottom'/>
+NDC Welcome
+A "hello world" for welcoming the audience to the talk
 
-
-## YOUR SKILL NAME
-One line description of the skill
-
-## Description 
-A more verbose description, including any extra instructions or
-information that didn't fit in the one line.
+## About 
+This will welcome the audience of my talk to the conference and introduce the speaker (me)
 
 ## Examples 
-* "Hello world"
-* "Greetings planet earth"
-* "Count up"
-* "Count down"
+* "welcome our audience"
+* "welcome the audience"
 
 ## Credits 
-Your name
+@geekygirlsarah
+Sarah Withee
+See https://geekygirlsarah.com/hey-mycroft for information on how the code works and to see the notes on how to make your own!
+
+
+## Category
+**Entertainment**
+WARNING: You have no Categories selected. Please ensure your Skill is assigned to at least one Category.
+
+## Tags
+
